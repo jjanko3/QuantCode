@@ -1,8 +1,5 @@
 clear
 capture cd "M:\stata"
-if c(username)=="mayamikdash" {
-cd "C:/Users/mayamikdash/Documents/EconometricsII/Assignment1"
-}
 
 
 
