@@ -1,28 +1,3 @@
-,net yields,,fips manual
-Anaheim,-0.176204108512093,Orange ,6059
-Atlanta,-0.094084314262704,Fulton ,13121
-Baltimore,-0.026488500572138,Baltimore ,24005
-Boston,-0.065957087740412,Suffolk ,25025
-Chicago,-0.099811746726164,Cook ,17031
-Cleveland,-0.124483664154551,Cuyahoga ,39035
-Dallas,0.010667119885169,Dallas ,48113
-Houston,0.020172939044978,Harris ,48201
-Kansas City,-0.006219487221856,Jackson ,29095
-Los Angeles,-0.155462529958871,Los Angeles ,6037
-Miami,-0.174705071451209,Miami-Dade ,12086
-Minneapolis,-0.062644481650948,Hennepin ,27053
-New York,-0.055280151957642,New York ,36061
-Newark,-0.093108879734871,Essex ,25009
-Oakland,-0.12366607273423,Alameda ,6001
-Oklahoma City,0.036730150027081,Oklahoma ,40109
-Philadelphia,-0.008773890099447,Philadelphia ,42101
-Phoenix,-0.166546820699965,Maricopa ,4013
-Pittsburgh,0.055191771207236,Allegheny ,42003
-Riverside,-0.198317606763275,Riverside ,6065
-San Diego,-0.106104858393511,San Diego ,6073
-San Francisco,-0.078100804107348,San Francisco ,6075
-San Jose,-0.091112470304959,Santa Clara ,6085
-Seattle,-0.070493057327191,King ,53033
-St. Louis,-0.006506555264312,St. Louis ,29189
-Tampa,-0.152201566459738,Hillsborough ,12057
-Washington,-0.028631991877107,District of Columbia,11001
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccc3bf60725ec2c87065bf6c222d98bebab8461e17d7fe106d1148f954dcebe8
+size 1256
